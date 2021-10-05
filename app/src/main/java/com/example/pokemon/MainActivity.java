@@ -18,7 +18,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity {
-
+//Hola
     private static final String TAG = "POKEDEX";
     private Retrofit retrofit;
 
